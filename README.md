@@ -13,10 +13,11 @@
       2. 选择排序
       3. 插入排序
    2. 高级排序
-      1. Shell Sort （高级插入排序）
-      2. Merge Sort
-      3. Quick Sort
+      1. Shell Sort，希尔排序（高级插入排序）
+      2. Merge Sort，归并排序
+      3. Quick Sort，快速排序
 4. 数据结构
    1. 顺序表
+   2. 单向链表
 
 **未完续待......**
